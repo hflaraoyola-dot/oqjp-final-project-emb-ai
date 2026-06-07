@@ -1,2 +1,2 @@
-# emotion-detection-app
+# oqjp-final-project-emb-ai - Final Project
 Final project
